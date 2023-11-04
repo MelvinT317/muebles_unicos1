@@ -19,20 +19,20 @@
     },
     {
         "id": 4,
-        "nombre": "Lámpara4",
+        "nombre": "silla",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
-        "imagen": "images/lampara.jpg"
+        "imagen": "images/silla.jpg"
     },
     {
         "id": 5,
-        "nombre": "Lámpara5",
+        "nombre": "sillaejecutiva",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
-        "imagen": "images/lampara.jpg"
+        "imagen": "images/SillaEjecutiva.jpg"
     },
     {
         "id": 6,
-        "nombre": "Lámpara6",
+        "nombre": "Sofa",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
-        "imagen": "images/lampara.jpg"
+        "imagen": "images/sofa.jpg"
     }
 ]
