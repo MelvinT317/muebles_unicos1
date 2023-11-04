@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mi-aplicacion
+  name: app1
 spec:
   replicas: 3 # El número de réplicas que deseas ejecutar
   selector:
     matchLabels:
-      app: mi-aplicacion
+      app: app1
   template:
     metadata:
       labels:
-        app: mi-aplicacion
+        app: app1
     spec:
       containers:
-      - name: mi-aplicacion
-        image: NOMBRE_DE_TU_IMAGEN_DOCKER:TAG
+      - name: app1
+        image: deployhome:TAG
         ports:
-        - containerPort: 5000 # El puerto en el que se ejecuta tu aplicación
+        - containerPort: 8181 # El puerto en el que se ejecuta tu aplicación
