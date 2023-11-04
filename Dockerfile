@@ -15,7 +15,7 @@ RUN pip install werkzeug
 RUN pip install --upgrade Flask Werkzeug
 
 # Exponer el puerto en el que se ejecutará la aplicación Flask
-EXPOSE 8181
+EXPOSE 8081
 
 # Comando para ejecutar la aplicación Flask
 CMD ["python", "app.py"]
