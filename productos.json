@@ -16,5 +16,23 @@
         "nombre": "Lámpara",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Lámpara4",
+        "descripcion": "Una lámpara moderna para iluminar tu hogar.",
+        "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Lámpara5",
+        "descripcion": "Una lámpara moderna para iluminar tu hogar.",
+        "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Lámpara6",
+        "descripcion": "Una lámpara moderna para iluminar tu hogar.",
+        "imagen": "images/lampara.jpg"
     }
 ]
